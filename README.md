@@ -1,9 +1,22 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18419778&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Ans; Software Engineering is a branch of computer science used for developing, testing and maintaining software.
+Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+Scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+Security - implement protection practice like authentication, authorization and encryption to secure users information.  
+ 
+Identify and describe at least three key milestones in the evolution of software engineering.
+Ans; .
+Mastering complexity
+Mastering process
+Mastering machine
+
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
